@@ -20,7 +20,7 @@ for name in files:
         load_plugins(plugin_name.replace(".py", ""))
 
 print("SUCCESSFULLY DEPLOYED!")
-print("Enjoy! SPAMMER BOT MADE BY @CRIMINAL786 (MOHAMMAD AMAAN)")
+print("Enjoy! SPAMMER BOT")
 
 if __name__ == "__main__":
     ATGK.run_until_disconnected()
