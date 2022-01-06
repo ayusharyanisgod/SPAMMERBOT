@@ -8,7 +8,7 @@ from telethon import events, Button
 async def start(event):
     await event.reply("ѕοмє ιиƒο αϐουτ οωиєя.",
                     buttons=[
-                        [Button.url("οωиєя", url="https://t.me/CRiMiNaL786")],
+                        [Button.url("οωиєя", url="https://t.me/AyushAryanPro")],
                         [Button.inline("Cнєϲκ мє",data="ishu")]
                     ])
 
@@ -16,7 +16,7 @@ async def start(event):
 async def ex(event):
     await event.edit("υѕє τнιѕ ρℓєαѕє /help",
                     buttons=[
-                        [Button.url("οωиєя", url="https://t.me/CRiMiNaL786")]
+                        [Button.url("οωиєя", url="https://t.me/AyushAryanPro")]
                     ])
 
 
