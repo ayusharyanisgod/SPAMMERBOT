@@ -15,9 +15,9 @@ pm_caption += "• **Pʏᴛʜᴏɴ:** `3.9.7` \n"
 pm_caption += "• **Dᴀᴛᴀʙᴀsᴇ Sᴛᴀᴛᴜs:**  `Fᴜɴᴄᴛɪᴏɴᴀʟ`\n"
 pm_caption += "• **Cᴜʀʀᴇɴᴛ Bʀᴀɴᴄʜ** : `ตαsԵҽɾ`\n"
 pm_caption += f"• **Wᴏʀᴋᴇʀ Oғ** : {ALIVE_NAME} \n"
-pm_caption += "• **Hᴇʀᴏᴋᴜ Dᴀᴛᴀʙᴀsᴇ** : `AWS - ωοяκíиg ρяορєяℓγ`\n\n"
-pm_caption += "• **Cᴏᴘʏʀɪɢʜᴛ** : ϐγ [ATGK](GitHub.com/Javes786)\n\n"
-pm_caption += "[Mᴀᴅᴇ ʙʏ 『 ツᴅɪᴄᴛᴀᴛᴏʀ乛ᴀᴍᴀᴀɴ々』 ](https://t.me/criminal786)"
+pm_caption += "• **Hᴇʀᴏᴋᴜ Dᴀᴛᴀʙᴀsᴇ** : `AWS - ωοяκíиg ρяορєяℓγ`\n"
+pm_caption += "• **Cᴏᴘʏʀɪɢʜᴛ** : ϐγ [Anonymus](https://t.me/AnonymusHu_Bot)\n\n"
+pm_caption += "[Mᴀᴅᴇ ʙʏ 『Anonymus』 ](https://t.me/AnonymusHu_Bot)"
 
 
 @ATGK.on(events.NewMessage(incoming=True, pattern="^/alive"))
