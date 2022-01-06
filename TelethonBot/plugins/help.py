@@ -11,7 +11,7 @@ ALIVE_NAME = str(ALIVE_NAME) if ALIVE_NAME else "SPAMMER BOT"
 
 @ATGK.on(events.NewMessage(incoming=True, pattern="/help"))
 async def start(event):
-    tatti=f"Sᴘᴀᴍᴍᴇʀ Bᴏᴛ Fᴏʀ {ALIVE_NAME} \nMᴀᴅᴇ Bʏ @CRiMiNaL786"
+    tatti=f"Sᴘᴀᴍᴍᴇʀ Bᴏᴛ Fᴏʀ {ALIVE_NAME} \nMᴀᴅᴇ Bʏ @AnonymusHu_Bot"
     await event.reply(tatti,
                     buttons=[
                         [Button.inline("cհҽϲκ мє",data="helpme")]
@@ -52,9 +52,9 @@ async def ex(event):
     text4="ѕοмє нєℓρƒυℓ ιиƒο."
     await event.edit(text4,
                      buttons=[
-                         [Button.url("ϲнαииєℓ", url="https://t.me/destroyxofficial")],
-                         [Button.url("gяουρ", url="https://t.me/DesTRoYxsupport")],
-                         [Button.url("gινє α sԵαɾ ⭐", url="https://github.com/CRiMiNaL786")],
+                         [Button.url("ϲнαииєℓ", url="https://t.me/AnonymusHu_Bot")],
+                         [Button.url("gяουρ", url="https://t.me/AnonymusHu_Bot")],
+                         [Button.url("gινє α sԵαɾ ⭐", url="https://t.me/AnonymusHu_Bot")],
                          [Button.inline("ϐαϲκ", data="helpme")]
                      ])
 
